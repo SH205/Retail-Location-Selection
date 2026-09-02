@@ -4,11 +4,9 @@
 
 **Business Problem:** Where should a retail company open its next location in the Orlando market?
 
-### Goal of Project
-Identify and rank potential retail locations in the Orlando market using demographic, competitive, geographic, and accessibility data.
+**Goal of Project:** Identify and rank potential retail locations in the Orlando market using demographic, competitive, geographic, and accessibility data.
 
-### Brief Description
-This is an end-to-end **data engineering, analytics, and business intelligence project** that combines public Census and OpenStreetMap data to evaluate potential retail expansion sites.
+**Brief Description:** This is an end-to-end **data engineering, analytics, and business intelligence project** that combines public Census and OpenStreetMap data to evaluate potential retail expansion sites.
 
 The pipeline:
 1. Collects public data from multiple sources

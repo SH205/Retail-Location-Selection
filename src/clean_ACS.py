@@ -5,10 +5,10 @@ from pathlib import Path
 # PATHS
 # =========================
 
-home = Path.home()
-raw = Path(home / 'Downloads/R/data/raw/')
-processed = Path(home / 'Downloads/R/data/processed/')
+BASE_DIR = Path(__file__).resolve().parent.parent
 
+raw = BASE_DIR / "data" / "raw"
+processed = BASE_DIR / "data" / "processed"
 
 # =========================
 # CENSUS — B19013 — MEDIAN INCOME

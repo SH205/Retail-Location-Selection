@@ -1,4 +1,4 @@
-# 🏪 Retail Site Selection - Orlando
+# Retail Site Selection - Orlando
 
 ## 📌 Project Overview
 

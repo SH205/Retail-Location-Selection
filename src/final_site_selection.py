@@ -8,7 +8,7 @@ from pathlib import Path
 # PATHS
 # ============================================================
 
-BASE_DIR = Path("/Users/sh/Downloads/R")
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 INPUT_FILE = (
     BASE_DIR / "data/processed/location_accessibility.geojson"

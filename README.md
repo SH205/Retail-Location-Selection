@@ -1,5 +1,11 @@
 # Retail Site Selection - Orlando
 
+## 🗺️ Interactive Map
+
+The final output is an interactive HTML map that allows users to explore and compare potential retail locations.
+
+**[Open Interactive Map](https://sh205.github.io/Retail-Location-Selection/orlando_site_selection_map.html)**
+
 ## 📌 Project Overview
 
 **Business Problem:** Where should a retail company open its next location in the Orlando market?
@@ -26,13 +32,6 @@ The pipeline:
 - Analyzed population, income, competition, and retail activity
 - Estimated daily foot traffic
 - Built an interactive HTML map
-
-## 🗺️ Interactive Map
-
-The final output is an interactive HTML map that allows users to explore and compare potential retail locations.
-
-**[Open Interactive Map](https://sh205.github.io/Retail-Location-Selection/orlando_site_selection_map.html)**
-
 
 ### Skills Used
 **Data Engineering • ETL • Data Cleaning • Data Validation • Data Integration • SQL Analytics • Statistical Analysis • Feature Engineering • Geospatial Analysis • Site Scoring & Ranking • Data Visualization • Business Intelligence**

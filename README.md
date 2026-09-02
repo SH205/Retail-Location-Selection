@@ -33,7 +33,7 @@ The pipeline:
 
 The final output is an interactive HTML map that allows users to explore and compare potential retail locations.
 
-**[Open Interactive Map](output/orlando_site_selection_map.html)**
+**[Open Interactive Map](docs/orlando_site_selection_map.html)**
 
 
 ### Skills Used

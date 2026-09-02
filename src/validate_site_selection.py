@@ -6,7 +6,8 @@ import numpy as np
 # CONFIGURATION
 # ============================================================
 
-BASE_DIR = "/Users/sh/Downloads/R"
+BASE_DIR = Path(__file__).resolve().parent.parent
+
 
 INPUT_FILE = os.path.join(
     BASE_DIR,
